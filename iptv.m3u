@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml"
+
 #央视卫视
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" http-user-agent="AptvPlayer-UA" group-title="央视卫视",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
@@ -284,7 +285,6 @@ http://live.ottiptv.cc/huya/26355864
 http://live.ottiptv.cc/huya/11352944
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png" group-title="影视频道",新水浒传
 http://live.ottiptv.cc/huya/11342384
-#http://zby.xjqxz.top/shz/live.m3u8
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="影视频道",新三国
 http://live.ottiptv.cc/douyu/5908256
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="影视频道",少年包青天第一部
@@ -351,7 +351,6 @@ https://live.ottiptv.cc/huya/11602081
 https://live.ottiptv.cc/huya/26355861
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/新白娘子传奇.png" group-title="影视频道", 新白娘子传奇
 http://www.douzhicloud.site:35455/yy/1354490667
-#http://luobo.bkpcp.top/yy/1354490667
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/乌龙闯情关.png" group-title="影视频道",乌龙闯情关
 https://live.ottiptv.cc/huya/26355767
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="影视频道",柳舟计
@@ -521,7 +520,6 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-id="2025年春晚" tvg-name="2025年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2025年春晚
 https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
-#https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 
 #国际港澳台
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" group-title="国际港澳台",BBC NEWS
